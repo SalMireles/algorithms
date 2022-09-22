@@ -125,10 +125,27 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- ROADMAP -->
 ## Roadmap
-
-- [ ] TBD
-- [ ] TBD
-- [ ] TBD
+[Roadmap Google Doc](https://docs.google.com/document/d/1wxfN9haQJJzIbvNFIJ08FxyTRKbjyIIJi_hvV0IHcaQ/edit)
+- [x] Setup Java Dev Environment
+- [ ] Week 1
+  - [ ] Hello, World
+  - [ ] Union Find
+  - [ ] Analysis of Algorithms
+- [ ] Week 2
+  - [ ] Stacks and Queues
+  - [ ] Elementary Sorts
+- [ ] Week 3
+  - [ ] Mergesort
+  - [ ] Quicksort
+- [ ] Week 4
+  - [ ] Priority Queues
+  - [ ] Elementary Symbol Tables
+- [ ] Week 5
+  - [ ] Balanced Search Trees
+  - [ ] Geometric Applications of BST's
+- [ ] Week 6
+  - [ ] Hash Tables
+  - [ ] Symbol Tables Applications
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
