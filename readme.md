@@ -43,10 +43,20 @@
 ## About The Project
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Algorithm and Data Structure Repo
+Algorithms and Data Structures implementation in java and python
 
-##### Algorithms
-- TBD
+##### Content
+- Union Find
+- Stacks and Queues
+- Elementary Sorts
+- Mergesort
+- Quicksort
+- Priority Queues
+- Elementary Symbol Tables
+- Balanced Search Trees
+- Geometric Applications of BST's
+- Hash Tables
+- Symbol Tables Applications
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
