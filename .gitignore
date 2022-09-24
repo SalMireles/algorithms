@@ -34,3 +34,12 @@ var/
 
 # Other
 .python-version
+
+# Java Stuff
+**/.idea/*
+**/.lift/*
+**/*.class
+*.iml
+**/*.iml
+**/*.class
+**/*.png
