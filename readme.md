@@ -74,7 +74,6 @@ Algorithms and Data Structures implementation in java and python
 
 ### Prerequisites and usage for MacOSX (M1)
 
-This is an example of how to list things you need to use the software and how to install them.
 1. Download and install java (https://www.java.com/en/download/)
    - Test in terminal
     ```console
@@ -124,13 +123,14 @@ This is an example of how to list things you need to use the software and how to
     > java QuickStart
     Hello, World.
     ```
-  3. If using vscode install coding pack for easier development: https://code.visualstudio.com/docs/java/java-tutorial
+  1. If using vscode install coding pack for easier development: https://code.visualstudio.com/docs/java/java-tutorial
       - This installs the following extensions:
         - `Extension Pack for Java`
         - `Debugger for Java`
         - `Maven for Java` 
         - `Project Manager for Java`
         - `Test Runner for Java`
+ * Note: It turns out that IntelliJ is a much better choice for java development: https://www.jetbrains.com/idea/download/#section=mac
 
 
 <!-- ROADMAP -->
